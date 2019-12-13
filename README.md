@@ -9,6 +9,20 @@ Projeto PHP onde será realizado uma pesquisa no Wikipedia e Wikiwix e retorna o
 
 Exercicio 1: Disciplina de Framework Back-End PHP
 
+## Projeto
+
+- Para instalar as dependências do projeto utilize o comando: $ composer install
+
+- Digite o comanda "php app" na raiz do projeto que irá apresentar uma lista de comandos para funcionamento da aplicação, para o projeto será utilizado os comandos "engines" e "search".
+
+- O comando "engines" lista as máquinas de buscas disponíveis:
+
+```php
+php app engines
+````
+
+- O segundo comando "search" realiza
+
 
 ## Motivação
 
