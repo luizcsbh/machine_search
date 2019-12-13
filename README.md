@@ -11,18 +11,23 @@ Exercicio 1: Disciplina de Framework Back-End PHP
 
 ## Projeto
 
-- Para instalar as dependências do projeto utilize o comando: $ composer install
-
-- Digite o comanda "php app" na raiz do projeto que irá apresentar uma lista de comandos para funcionamento da aplicação, para o projeto será utilizado os comandos "engines" e "search".
+ Para instalar as dependências do projeto utilize o comando:
+```php
+composer install
+```
+ Digite o comanda "php app" na raiz do projeto que irá apresentar uma lista de comandos para funcionamento da aplicação, para o projeto será utilizado os comandos "engines" e "search".
 
 - O comando "engines" lista as máquinas de buscas disponíveis:
 
 ```php
-php app engines
+$php app engines
 ````
 
-- O segundo comando "search" realiza
+- O segundo comando "search" realiza uma pesquisa no Wikipedia(default) com o termo informado no comando:
 
+```php
+$php app search macbook
+```
 
 ## Motivação
 
