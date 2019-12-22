@@ -5,7 +5,6 @@ use App\ConsoleApplication;
 
 require 'vendor/autoload.php';
 
-$app = new ConsoleApplication('1.0.1');
+$app = new ConsoleApplication('1.0.0');
 $app->run();
 
-?>
