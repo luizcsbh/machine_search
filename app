@@ -7,5 +7,3 @@ require 'vendor/autoload.php';
 
 $app = new ConsoleApplication('1.0.0');
 $app->run();
-
-?>
