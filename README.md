@@ -9,6 +9,11 @@ Projeto PHP onde será realizado uma pesquisa no Wikipedia e Wikiwix e retorna o
 
 Exercicio 1: Disciplina de Framework Back-End PHP
 
+## Pré-requisitos para o projeto
+
+- PHP version 7.4.0
+- Composer version 1.9.1
+
 ## Projeto
 
  Para instalar as dependências do projeto utilize o comando:
