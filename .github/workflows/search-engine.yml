@@ -20,5 +20,10 @@ jobs:
     - name: Testes unitários
       run:  composer run-script test
 
+<<<<<<< HEAD
     - name: Executar pesquisa
       run:  bin/php app search "iphone"
+=======
+    - name: Executar pesquia
+      run:  php app search "iphone"
+>>>>>>> 31ec8e8ec51cd911ea34cba9b3a2690624a15f54
