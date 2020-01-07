@@ -21,4 +21,4 @@ jobs:
       run:  composer run-script test
 
     - name: Executar pesquia
-      run:  php app search "Atlético"
+      run:  php app search "iphone"
