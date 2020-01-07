@@ -5,7 +5,7 @@ on: [push]
 jobs:
   build:
 
-    name: Máquina de busca
+    name: machine_search
     runs-on: ubuntu-latest
 
     steps:
@@ -20,5 +20,5 @@ jobs:
     - name: Testes unitários
       run:  composer run-script test
 
-    - name: Executar pesquia
-      run:  php app search "Atlético"
+    - name: Executar pesquisa
+      run:  bin/php app search "iphone"
