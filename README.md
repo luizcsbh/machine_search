@@ -2,7 +2,7 @@
 ![forks](https://img.shields.io/github/forks/luizcsbh/machine_search)
 ![stars](https://img.shields.io/github/stars/luizcsbh/machine_search)
 ![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/machine_search)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/machine_search/Search%20Engine%20Application)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/machine_search/Search%20Engine%20Application)](https://github.com/luizcsbh/machine_search/actions)
 
 # Máquina de Busca :computer: :mag_right:
 Projeto PHP onde será realizado uma pesquisa no Wikipedia e Wikiwix e retorna os resultados da primeira página  ou uma mensagem informando que não foi encontrado nenhuma ocorrência do termo informado.
