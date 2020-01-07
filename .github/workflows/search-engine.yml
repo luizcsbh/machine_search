@@ -21,4 +21,4 @@ jobs:
       run:  composer run-script test
 
     - name: Executar pesquisa
-      run:  php app search "iphone"
+      run:  php app search "Atletico Mineiro"
